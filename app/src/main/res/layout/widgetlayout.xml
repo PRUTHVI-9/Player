@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/pre1"
+        android:layout_width="70dp"
+        android:layout_margin="20dp"
+        android:src="@drawable/pre"
+        android:layout_height="70dp">
+
+    </ImageView>
+    <ImageView
+        android:id="@+id/player1"
+        android:layout_width="70dp"
+        android:layout_margin="20dp"
+        android:src="@drawable/player"
+        android:layout_height="70dp">
+
+    </ImageView>
+<!--    <ImageView-->
+<!--        android:id="@+id/pause1"-->
+<!--        android:layout_width="70dp"-->
+<!--        android:layout_margin="20dp"-->
+<!--        android:src="@drawable/pause"-->
+<!--        android:layout_height="70dp">-->
+
+<!--    </ImageView>-->
+    <ImageView
+        android:id="@+id/next1"
+        android:layout_width="70dp"
+        android:layout_margin="20dp"
+        android:src="@drawable/next"
+        android:layout_height="70dp">
+
+    </ImageView>
+
+
+
+</LinearLayout>
